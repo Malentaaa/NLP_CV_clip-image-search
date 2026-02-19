@@ -11,5 +11,5 @@ __pycache__/
 
 
 # datasets (если не хочешь хранить)
-.data/
+data/
 *.csv
